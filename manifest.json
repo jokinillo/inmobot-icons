@@ -1,24 +1,20 @@
 {
   "name": "InmoBot",
   "short_name": "InmoBot",
-  "description": "Panel de control InmoBot",
-  "start_url": "https://script.google.com/macros/s/AKfycbycXQnuGOiIaUnkbmDud1bTJiwpV4iMpkVvKP2_s-PJ8wRF0oEPKlCSAYhKPTYZ9F7n8Q/exec",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#000000",
+  "background_color": "#0B1220",
   "theme_color": "#0B1220",
-  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://script.google.com/macros/s/AKfycbycXQnuGOiIaUnkbmDud1bTJiwpV4iMpkVvKP2_s-PJ8wRF0oEPKlCSAYhKPTYZ9F7n8Q/exec?asset=icon192",
+      "src": "/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "https://script.google.com/macros/s/AKfycbycXQnuGOiIaUnkbmDud1bTJiwpV4iMpkVvKP2_s-PJ8wRF0oEPKlCSAYhKPTYZ9F7n8Q/exec?asset=icon512",
+      "src": "/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
